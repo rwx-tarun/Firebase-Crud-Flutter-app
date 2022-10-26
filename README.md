@@ -1,10 +1,16 @@
-# Firebase-Crud-Flutter-app
-To Maintain Employee information with signin and signup functions. 
-- Provided fully functional backend using FireBase where User can add ,update, delete and edit data.
-- Added functionality signup and signin to add FireBase Authentication.
+# firebase_crud
 
+A new Flutter project.
 
-<img src="https://user-images.githubusercontent.com/78414267/198013297-8a8d8a06-8b15-4ec5-9b69-8e9f0ead3b0e.jpg" width="250">
-<img src="https://user-images.githubusercontent.com/78414267/198014738-ff3ab353-acab-439f-899b-482461d4caf7.jpg" width="250">
-<img src="https://user-images.githubusercontent.com/78414267/198014757-91b49e6c-2b7f-47cd-85d3-d5cf0bef8ec6.jpg" width="250">
-<img src="https://user-images.githubusercontent.com/78414267/198014766-c6ec88b5-48de-4ba3-a309-105abd04bb55.jpg" width="250">
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
